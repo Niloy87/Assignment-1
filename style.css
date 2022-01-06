@@ -11,7 +11,7 @@ h1{
     width: 60%;
     padding-left: 10%;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -20,9 +20,23 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-color: rgb(105, 101, 95);
+    background-color: tomato;
     padding: 5px 10px;
-    color: aqua;
+    color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+.text-middle{
+    text-align: center;
+}
+.second-section{
+    padding-right: 10%;
+}
+.mission-area{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10%;
+    box-shadow: 10px 10px 40px gray;
+    border: 5px gray;
 }
