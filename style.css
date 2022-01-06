@@ -1,0 +1,28 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+.title-color{
+    color: rgb(177, 36, 43);
+}
+h1{
+    font-size: 50px;
+}
+.half-width{
+    width: 60%;
+    padding-left: 10%;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(105, 101, 95);
+    padding: 5px 10px;
+    color: aqua;
+    font-weight: 700;
+    border-radius: 5px;
+}
